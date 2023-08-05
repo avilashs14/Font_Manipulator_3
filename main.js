@@ -22,7 +22,7 @@ function gotPoses(results) {
 }
 function draw() {
     background('#6C91C2');
-    textSize(10);
+    textSize(difference);
     fill('#FFE787');
     text('Avilash', 50, 400);
 }
